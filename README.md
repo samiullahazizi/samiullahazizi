@@ -15,7 +15,7 @@ Here are a few of my personal projects that showcase my skills and experience:
 
 - [AfghanTurkApp](https://play.google.com/store/apps/details?id=com.AfghanTurk.afghanturkmaarifonline):The application provides a learning environment for students via distance learning facilities, QR Code. There is also guidance about the procedure of registration in our schools, materials for the students of all the grades.
 
-- [Project Name](https://github.com/[Your_Username]/[Project_Name]): A brief description of the project and what it does, highlighting the technologies used.
+- [Career](https://career.afganturkmaarif.org/): As a self-taught full stack developer, I took on the challenge of building Career from scratch. I utilized Next js for the front-end, Laravel for the back-end, and worked with a MySQL database. I was responsible for every aspect of the project, from design and development to deployment and maintenance. The project was a success and has helped .
 
 ## Experience
 
@@ -26,8 +26,8 @@ Here are a few of my personal projects that showcase my skills and experience:
 
 ## Education
 
-- [Bachelor] in [Computer Science], [Kardan University], [2022]
+- Bachelor in Computer Science, Kardan University, 2022
 
 ## Contact
 
-Feel free to reach out to me on [samiullahazizi001@gmail.com] or [https://www.linkedin.com/in/samiullah-azizi-1ba757205/].
+Feel free to reach out to me on samiullahazizi001@gmail.com or https://www.linkedin.com/in/samiullah-azizi-1ba757205.
