@@ -11,7 +11,7 @@ Hello! I'm a full stack developer with more then 3 year experience in building w
 
 ## Projects
 
-Here are a few of my personal projects that showcase my skills and experience:
+Here are a few of my personal projects that showcase my skills and experience: 
 
 - [AfghanTurkApp](https://play.google.com/store/apps/details?id=com.AfghanTurk.afghanturkmaarifonline):The application provides a learning environment for students via distance learning facilities, QR Code. There is also guidance about the procedure of registration in our schools, materials for the students of all the grades.
 
