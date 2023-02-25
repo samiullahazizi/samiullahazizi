@@ -17,7 +17,7 @@ Here are a few of my personal projects that showcase my skills and experience:
 
 - [Career](https://career.afganturkmaarif.org/): As a self-taught full stack developer, I took on the challenge of building Career from scratch. I utilized Next js for the front-end, Laravel for the back-end, and worked with a MySQL database. I was responsible for every aspect of the project, from design and development to deployment and maintenance. The project was a success and has helped .
 
-## Experience
+## Experience 
 
 - [Turkish Maarif Foundition - Afghanistan](https://www.afganturkmaarif.org/): Full Stack Developer, [2019- til now]
   - During my time at the Turkish Maarif Foundation in Afghanistan, I worked as a full stack developer, responsible for the development and maintenance of various web and mobile applications, as well as desktop applications. I collaborated with a team of developers to deliver high-quality, scalable, and reliable applications that met the needs of the organization.
