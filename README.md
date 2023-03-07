@@ -4,7 +4,7 @@ Hello! I'm a full stack developer with more then 3 year experience in building w
 
 ## Skills 
   
-- Front-end: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS 
+- Front-end: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
 - Back-end: Node.js, Express, MongoDB, MySQL, PostgreSQL
 - Mobile development: Swift (iOS), Kotlin (Android)
 - Other technologies: Git, GitHub, Nginx, Linux, REST APIs
