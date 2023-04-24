@@ -35,6 +35,6 @@ Here are a few of my personal projects that showcase my skills and experience:
 
 - Bachelor in Computer Science, Kardan University, 2022 
 
-## Contact
+## Contact 
 
 - Feel free to reach out to me on samiullahazizi001@gmail.com or https://www.linkedin.com/in/samiullah-azizi-1ba757205.
