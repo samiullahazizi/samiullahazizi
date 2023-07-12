@@ -28,7 +28,7 @@ Here are a few of my personal projects that showcase my skills and experience:
   - Writing clean, maintainable, and efficient code for both front-end and back-end development
   - Collaborating with the design and product teams to ensure a seamless user experience across all platforms
 
-  I utilized a variety of technologies during my time at the Turkish Maarif Foundation, including React, Node.js, PHP, Laravel, MySQL, MongoDB, Swift, and Kotlin. My     work contributed to the overall success of the organization and helped to improve the delivery of educational services to students in Afghanistan, through both         mobile and desktop applications.
+  I utilized a variety of technologies during my time at the Turkish Maarif Foundation, including React, Node.js, PHP, Laravel, MySQL, MongoDB, Swift, and Kotlin. My     work contributed to the overall success of the organization and helped to improve the delivery of educational services to students in Afghanistan, through both mobile and desktop applications.
 
 
 ## Education
