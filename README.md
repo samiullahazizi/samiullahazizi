@@ -1,5 +1,5 @@
 # Full Stack Developer
-
+ 
 Hello! I'm a full stack developer with more then 3 year experience in building web applications from end-to-end. I have a strong understanding of front-end technologies such as HTML, CSS, JavaScript, React, and Next.js, and I also have experience with back-end technologies such as Node.js, Express, databases like MongoDB, MySQL and PostgreSQL, Swift for iOS development and Kotlin for Android development. 
 
 ## Skills 
